@@ -1,18 +1,4 @@
-// const dateInput=document.querySelector("input");
-// const pElement=document.querySelector("p");
 
-// dateInput.addEventListener("change",() => {
-//     const birthDate = new Date(dateInput.value);
-//     const currentDate = new Date();
-//     const newDate =new Date(currentDate - birthDate);
-
-//     const Years = newDate.getfullYear()-1985;
-//     const Months = newDate.getMonth();
-//     const days = newDate.getDate() - 1;
-
-//     pElement.innerText = 'Hello! welcome youre'  
-//     + Years +"Years" + Month + 'Month' + Days+ 'Days Old.';
-// })
 //     const Now = new Date();
 // console.log(Now);
 // console.log(Now.getMonth());
